@@ -1,7 +1,7 @@
-* O Brasil USA
+# O Brasil USA
 
-** Finalidade do projeto
+## Finalidade do projeto
 Criarmos um cartão de visitas interativa para os clientes.
 
-** Link do cartão
+## Link do cartão
 [O Brasil USA]()
