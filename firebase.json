@@ -7,6 +7,6 @@
       "**/node_modules/**"
     ],
     "appAssociation": "AUTO",
-    "rewrites": [ { "source": "/src/views/**", "dynamicLinks": true } ]
+    "rewrites": [ { "source": "/**", "dynamicLinks": true } ]
   }
 }
