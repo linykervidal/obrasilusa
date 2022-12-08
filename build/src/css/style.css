@@ -72,3 +72,55 @@ span {
     width: 120px;
     text-align: left;
 }
+
+@media (max-height: 700px) {
+    main {
+        transform: scale(0.9);
+    }
+}
+
+@media (max-height: 650px) {
+    main {
+        transform: scale(0.8);
+    }
+}
+
+@media (min-height: 1000px) {
+    main {
+        transform: scale(1.4);
+    }
+}
+
+@media (min-height: 1100px) {
+    main {
+        transform: scale(1.6);
+    }
+}
+
+@media (min-height: 1300px) {
+    main {
+        transform: scale(1.9);
+    }
+}
+
+@media (max-width: 500px) {
+    main {
+        transform: scale(0.9);
+    }
+
+    li {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    main {
+        transform: scale(0.8);
+    }
+}
+
+@media (max-width: 300px) {
+    main {
+        transform: scale(0.6);
+    }
+}
